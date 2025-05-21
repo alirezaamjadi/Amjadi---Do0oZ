@@ -1,4 +1,5 @@
-![Super_tic-tac-toe_rules_example](https://github.com/user-attachments/assets/e27a1b5a-9a6b-47b3-a81c-2fd68d2dbabc)
+![tic_1](https://github.com/user-attachments/assets/da10e281-1df0-4887-afbe-7fc286040cfc)
+
 
 
 ---
