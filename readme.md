@@ -1,4 +1,4 @@
-البته! اینجا یک نمونه کامل **README** دوبانده (فارسی و انگلیسی) برای پروژه بازی مار (Snake) هست که می‌تونی توی GitHub بذاری:
+![Super_tic-tac-toe_rules_example](https://github.com/user-attachments/assets/f6d36ab4-2245-4ef8-a16a-22b8fcc84bfa)
 
 ---
 
@@ -61,6 +61,3 @@ python snake.py
 ```
 
 ---
-
-اگر بخواهی می‌توانم این را در قالب Markdown یا هر فرمتی که می‌خواهی هم برات تنظیم کنم.
-نیاز به کمک بیشتر داری؟
