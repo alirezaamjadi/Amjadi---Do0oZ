@@ -1,3 +1,4 @@
+![tic_1](https://github.com/user-attachments/assets/197d1400-78e0-4e66-94b8-d855550a849a)
 
 
 # Simple Snake Game — Installer Version
