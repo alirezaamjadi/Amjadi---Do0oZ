@@ -1,4 +1,4 @@
-![tic_1](https://github.com/user-attachments/assets/197d1400-78e0-4e66-94b8-d855550a849a)
+![Super_tic-tac-toe_rules_example](https://github.com/user-attachments/assets/e84181a4-57b4-4ad7-b47f-70ef2952e6fc)
 
 
 # Simple Snake Game — Installer Version
